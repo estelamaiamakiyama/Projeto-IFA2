@@ -198,3 +198,19 @@
     footer a {
       color: var(--verde-agua);
     }
+
+    #tratamento-de-agua {
+  display: flex;
+  align-items: center;
+  gap: 30px;
+}
+
+.imagem-secao {
+  width: 40%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.conteudo-texto {
+  width: 60%;
+}
